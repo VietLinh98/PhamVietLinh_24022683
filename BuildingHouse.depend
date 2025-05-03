@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1746241932 source:e:\buildinghouse\main.cpp
+	"Game.h"
+	"menu.h"
+	<SDL.h>
+	<iostream>
+
+1746239288 e:\buildinghouse\game.h
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	"Block.h"
+
+1746239288 e:\buildinghouse\block.h
+	<SDL.h>
+
+1746286783 source:e:\buildinghouse\block.cpp
+	"Block.h"
+
+1746241721 source:e:\buildinghouse\game.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1744738748 e:\buildinghouse\background.h
+	<SDL.h>
+
+1744738689 source:e:\buildinghouse\background.cpp
+	"BackGround.h"
+	<SDL_image.h>
+
+1746241916 e:\buildinghouse\menu.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1746241948 source:e:\buildinghouse\menu.cpp
+	"menu.h"
+	<iostream>
+
